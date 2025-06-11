@@ -1,0 +1,15 @@
+# LangChain Core
+langchain
+
+# Community Loaders & VectorStores (e.g., TextLoader, FAISS)
+langchain-community
+
+# FAISS for Vector Search (CPU version)
+faiss-cpu
+
+# Optional: dotenv support if you're loading environment variables
+python-dotenv
+
+requests
+openai
+tiktoken
