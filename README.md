@@ -117,7 +117,3 @@ rag_chain.invoke("What action is the U.S. taking to address rising gas prices?")
 
 ---
 
-## 🙏 Acknowledgment
-This implementation is inspired by tutorials from **Sunny Savita's YouTube channel**:
-- [YouTube channel](https://youtu.be/y_act32Gjbc?si=5kSKvRwkQoVnswAh)
-
