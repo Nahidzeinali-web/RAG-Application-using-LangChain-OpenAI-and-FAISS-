@@ -1,0 +1,30 @@
+NIH DMS Plan Required Elements:
+A Data Management and Sharing (DMS) Plan should address:
+(1) Data type and amount
+(2) Related tools, software, and documentation
+(3) Standards
+(4) Repository selection
+(5) Timing of sharing
+(6) Access, distribution, or reuse considerations
+
+Repository selection guidance:
+Repository selection should be justified by data type and community norms.
+The repository should support metadata, persistent identifiers, long-term preservation,
+and (when needed) access controls for sensitive data.
+
+Human participant data & controlled access:
+For human participant data, sharing may require controlled access and safeguards.
+Plans should describe de-identification steps, governance (e.g., Data Use Agreements),
+and an access review/approval process.
+
+Documentation & metadata:
+Documentation should support reuse: README, data dictionary/codebook, variable definitions,
+provenance notes, and metadata needed for discovery and interpretation.
+
+Timing of sharing:
+Timing should specify when data will be shared (e.g., at publication, end of project,
+or rolling releases). Any embargo/delay should be justified by ethics or policy.
+
+Derived data when raw data cannot be shared:
+If raw patient-level data cannot be shared broadly, plans can share derived or aggregated outputs
+(e.g., feature tables, summary statistics, model performance metrics) to maximize reuse while protecting privacy.
